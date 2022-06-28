@@ -1,0 +1,39 @@
+blockquote {
+    background-color: #262730;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 3px;
+    justify-content: center;
+    border-color: #C7308B;
+    margin: 0;
+    padding: 0;
+}
+
+blockquote p {
+    padding: 15px;
+    margin: 0;
+}
+
+div.css-1r6slb0.e1tzin5v2 {
+    background-color: #262730;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 3px;
+    border-color: #C7308B;
+    margin: 0;
+    padding: 15px;
+}
+
+div.css-yx24wy.e1tzin5v0 {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+div.css-1r6slb0.e1tzin5v2 svg {
+    display: none;
+}
+
+footer {
+    visibility: hidden;
+}
